@@ -44,10 +44,6 @@
 <br>
 <br>
 
-  ## ✨ Tech Stack ✨
-<br>
-<br>
-
 ## LANGUAGE
 <br>
 <br>
@@ -116,7 +112,7 @@
 ## 📫 Contact 📫
 <br>
 <br>
-  <a href="mailto:lhj880067@gmail.com" target="_blank">
+  <a href="mailto:lej55888@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/lhj880067@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
