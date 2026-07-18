@@ -56,16 +56,12 @@
   
 ## ML/DL 
 <br>
-<br>  
-  </br>
-
 <div align="center">
-  ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-  ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-  ![Qwen 2.5](https://img.shields.io/badge/Qwen_2.5_7B-%234B4B4B.svg?style=for-the-badge) 
+  <img src="https://img.shields.io/badge/Google_ML_Kit-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit">
+  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Qwen_2.5_7B-%234B4B4B.svg?style=for-the-badge" alt="Qwen 2.5">
 </div>
 <br>
-<div align="center">
   
 ##  Front_End 
   <br>
